@@ -1,0 +1,417 @@
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\appsettings.json
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.exe
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.deps.json
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.runtimeconfig.json
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.pdb
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Azure.Core.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Azure.Identity.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Web.Cors.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Web.Http.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Web.Http.Cors.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.AssemblyReference.cache
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.AssemblyInfoInputs.cache
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.AssemblyInfo.cs
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.SistemaMaquinas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.build.SistemaMaquinas.props
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMaquinas.props
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMaquinas.props
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\scopedcss\bundle\SistemaMaquinas.styles.css
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.CopyComplete
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\refint\SistemaMaquinas.dll
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.pdb
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.genruntimeconfig.cache
+C:\Users\Diogo\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\ref\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\appsettings.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.exe
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.deps.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.runtimeconfig.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.pdb
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Azure.Core.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Azure.Identity.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Web.Cors.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Web.Http.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Web.Http.Cors.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.AssemblyReference.cache
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.AssemblyInfoInputs.cache
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.AssemblyInfo.cs
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.SistemaMaquinas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.build.SistemaMaquinas.props
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMaquinas.props
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMaquinas.props
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\scopedcss\bundle\SistemaMaquinas.styles.css
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.CopyComplete
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\refint\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.pdb
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.genruntimeconfig.cache
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinas\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\ref\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\appsettings.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.exe
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.deps.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.runtimeconfig.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.pdb
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Azure.Core.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Azure.Identity.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Web.Cors.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Web.Http.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Web.Http.Cors.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.AssemblyReference.cache
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.AssemblyInfoInputs.cache
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.AssemblyInfo.cs
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.SistemaMaquinas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.build.SistemaMaquinas.props
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMaquinas.props
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMaquinas.props
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\scopedcss\bundle\SistemaMaquinas.styles.css
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.CopyComplete
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\refint\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.pdb
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.genruntimeconfig.cache
+C:\Users\Diogo Almeida\Desktop\SistemaMaquinasBack\SistemaMaquinas\SistemaMaquinas\obj\Release\net6.0\ref\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\appsettings.Development.json
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\appsettings.json
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.exe
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.deps.json
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.runtimeconfig.json
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.pdb
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Azure.Core.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Azure.Identity.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Web.Cors.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Web.Http.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Web.Http.Cors.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.AssemblyReference.cache
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.AssemblyInfoInputs.cache
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.AssemblyInfo.cs
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.SistemaMaquinas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.build.SistemaMaquinas.props
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMaquinas.props
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMaquinas.props
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\scopedcss\bundle\SistemaMaquinas.styles.css
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.CopyComplete
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\refint\SistemaMaquinas.dll
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.pdb
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.genruntimeconfig.cache
+C:\Users\Diogo Almeida\Documents\GitHub\SISTEMAMAQUINASBACKV2\SistemaMaquinas\obj\Release\net6.0\ref\SistemaMaquinas.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\appsettings.Development.json
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\appsettings.json
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.exe
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.deps.json
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.runtimeconfig.json
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\SistemaMaquinas.pdb
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Azure.Core.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Azure.Identity.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Web.Cors.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Net.Http.Formatting.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Web.Http.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Web.Http.Cors.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Memory.Data.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Text.Encodings.Web.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Text.Json.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.AssemblyReference.cache
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.AssemblyInfoInputs.cache
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.AssemblyInfo.cs
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.CoreCompileInputs.cache
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.SistemaMaquinas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.build.SistemaMaquinas.props
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.SistemaMaquinas.props
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.SistemaMaquinas.props
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\scopedcss\bundle\SistemaMaquinas.styles.css
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.csproj.CopyComplete
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\refint\SistemaMaquinas.dll
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.pdb
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\SistemaMaquinas.genruntimeconfig.cache
+C:\Users\JoaoRosa\Documents\SISTEMAMAQUINASV2\BackEnd\SistemaMaquinasBack\SistemaMaquinas\obj\Release\net6.0\ref\SistemaMaquinas.dll
